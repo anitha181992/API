@@ -1,0 +1,6 @@
+com\task\dropbox\Dropbox_client\DropboxClient.class
+com\task\dropbox\Dropbox_client\Authorization.class
+com\task\dropbox\Dropbox_client\AppFactory.class
+com\task\dropbox\Dropbox_client\Information.class
+com\task\dropbox\Dropbox_client\ListFiles.class
+com\task\dropbox\Dropbox_client\Appauthorize.class
